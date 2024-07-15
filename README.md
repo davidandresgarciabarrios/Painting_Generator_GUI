@@ -11,10 +11,7 @@ Welcome to the **Damien Hirst Spot Paintings Generator**! This small Python proj
 ## 🚀 Usage
 
 1. Place your image (e.g., `Painting.jpg`) in the project directory.
-2. Run the script:
-    ```bash
-    python spot_paintings.py
-    ```
+2. Run the script.
 3. Enjoy your generated spot painting!
 
 ## 📷 Example Output
